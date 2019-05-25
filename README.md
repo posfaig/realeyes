@@ -199,5 +199,5 @@ There are quite a few alternatives to AWS Glue. E.g. Data pipeline, EMR, Batch. 
   - Dev endpoint, where data scientists can experiment with/write new ETL jobs.
   - Fully managed (no infrastructure provisioning).
 
-However, there are downsides too, see the *AWS Product Integrations* section on the [Glue FAQs](https://aws.amazon.com/glue/faqs/) page.
+However, there are downsides too, see the *AWS Product Integrations* section on the [Glue FAQs](https://aws.amazon.com/glue/faqs/) page for more details.
 
