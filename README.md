@@ -193,7 +193,7 @@ SageMaker notebooks [can be integrated directly with Athena](https://aws.amazon.
 
 ## Alternatives to Glue
 
-There are quite a few alternatives to AWS Glue. E.g. Data pipeline, EMR, Batch. Glue was picked for the following reasons:
+There are quite a few alternatives to AWS Glue. E.g. Data pipeline, EMR, Batch or other simple compute services like EC2 or Fargate. Glue was picked for the following reasons:
 
   - Athena is out-of-the-box integrated with AWS Glue Data Catalog.
   - Dev endpoint, where data scientists can experiment with/write new ETL jobs.
